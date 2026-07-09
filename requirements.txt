@@ -1,0 +1,6 @@
+# No runtime dependencies. This project intentionally uses only the
+# Python 3 standard library (math, random, struct, zlib, argparse).
+#
+# Optional, only if you'd rather run the suite with pytest instead of
+# the built-in unittest runner:
+pytest>=7.0
